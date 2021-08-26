@@ -73,7 +73,7 @@ Yakuman(13+) | 8000/16000<br>32000
     Position | Cost(Han)
     ---|---
     Dealer | `Mangan`
-    Non-Dealer | Dealers `Mangan`
+    Non-Dealer | `Mangan`
 
 3. Chiitoitsu (七対子)
     >Seven pairs.
