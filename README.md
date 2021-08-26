@@ -70,7 +70,7 @@ Yakuman(13+) | 8000/16000<br>32000
     > * If there is no calls from this discard.
     > * Payouts are counted like Mangan for tsumo.
 
-    Hnad | Cost(Han)
+    Hand | Cost(Han)
     ---|---
     Closed | `Mangan`
     Open | ---
@@ -128,6 +128,12 @@ Yaku | Fu
 ---|---
 Chiitoitsu | 25 fu
 Toitoi | 40 fu (!)
-Pinfu | 30/20
-Closed hand without pinfu | 40/30 (1)
+Pinfu | 30/20 fu
+Closed hand without pinfu | 40/30 fu (!)
 Open hand | 30 fu
+
+>(!)
+> * at least one concealed set of terminal/honor tiles
+> * at least two open sets of terminal/honor tiles
+> * one open set of terminal/honor tiles and one concealed set of simples
+> * at least two concealed sets of simples
