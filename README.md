@@ -57,10 +57,10 @@ Yakuman(13+) | 8000/16000<br>32000
 
     >You promise to win by putting 1000 into your deposit. If you win you take away everything from the table top, and 1000 as yaku.
     
-    Position | Cost(Han)
+    Hnad | Cost(Han)
     ---|---
-    Dealer | 1
-    Non-Dealer | 1
+    Closed | 1
+    Open | ---
 
 2. Nagashi Mangan (流し満貫)
 
@@ -70,12 +70,15 @@ Yakuman(13+) | 8000/16000<br>32000
     > * If there is no calls from this discard.
     > * Payouts are counted like Mangan for tsumo.
 
-    Position | Cost(Han)
+    Hnad | Cost(Han)
     ---|---
-    Dealer | `Mangan`
-    Non-Dealer | `Mangan`
+    Closed | `Mangan`
+    Open | ---
 
 3. Chiitoitsu (七対子)
+
+    `Closed only`
+
     >Seven pairs.
     > * No Iipeikou.
     > * No Ryanpeikou.
