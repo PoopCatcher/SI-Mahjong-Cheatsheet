@@ -1,5 +1,6 @@
 # SI+ | Mahjong Cheatsheet
 
+----------------------------------------------------------------
 - [SI+ | Mahjong Cheatsheet](#si--mahjong-cheatsheet)
   - [Scoring:](#scoring)
     - [Dealer](#dealer)
@@ -8,6 +9,13 @@
     - [Situations:](#situations)
     - [Luck:](#luck)
     - [Subsequence:](#subsequence)
+  - [Fu:](#fu)
+    - [Groups](#groups)
+    - [Waits](#waits)
+    - [Honor pairs](#honor-pairs)
+    - [Fu shortcuts](#fu-shortcuts)
+
+----------------------------------------------------------------
 
 ## Scoring: 
 >Upper - by `Tsumo` <br> Lower - by `Ron`
@@ -38,6 +46,9 @@ Haneman(6,7) | 3000/6000<br>12000
 Baiman(8,9,10) | 4000/8000<br>16000
 Sanbaiman(11,12) | 6000/12000<br>24000
 Yakuman(13+) | 8000/16000<br>32000
+
+----------------------------------------------------------------
+
 ## Yaku:
 ### Situations:
 1. Riichi (立直)
@@ -79,3 +90,41 @@ Yakuman(13+) | 8000/16000<br>32000
 7. Double Riichi
 ### Subsequence:
 
+----------------------------------------------------------------
+## Fu:
+> * Fu is always rounded up to the next 10.
+> * 20 fu always to every hand. 
+### Groups
+
+Eng | Rom | Simples | Honor/Term
+---|---|---|---
+Open pon | Minkou | 2 fu | 4 fu 
+Open kan | Minkan | 8 fu | 16 fu
+Closed pon | Ankou | 4 fu | 8 fu 
+Closed kan | Ankan | 16 fu | 32 fu 
+
+### Waits
+
+Eng | Rom | Fu
+---|---|---
+Open wait | Ryanmen | 0 fu 
+Closed wait | Kanchan | 2 fu 
+Closed pon | Penchan | 2 fu  
+Closed kan | Tanki | 2 fu 
+
+### Honor pairs
+
+Tiles | Prise
+---|---
+Dragons  | 2 fu
+Valuable Wind | 2(4) fu
+
+### Fu shortcuts
+
+Yaku | Fu
+---|---
+Chiitoitsu | 25 fu
+Toitoi | 40 fu (!)
+Pinfu | 30/20
+Closed hand without pinfu | 40/30 (1)
+Open hand | 30 fu
