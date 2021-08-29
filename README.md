@@ -9,6 +9,7 @@
     - [Situations:](#situations)
     - [Luck:](#luck)
     - [Sequence:](#sequence)
+    - [Triplets](#triplets)
   - [Fu:](#fu)
     - [**Base**](#base)
     - [**Bonus**](#bonus)
@@ -148,7 +149,7 @@
     | Closed | 1         |
     | Open   | 1         |
 
-6. Chankan
+6. Chankan (搶槓)
 
     `Any`
 
@@ -168,7 +169,98 @@
     | ------ | --------- |
     | Closed | 1         |
     | Open   | ---       |
+
 ### Sequence:
+
+1. Pinfu (平和)
+
+    `Closed only`
+
+    > Hand with no fu.
+
+    | Hand   | Cost(Han) |
+    | ------ | --------- |
+    | Closed | 1         |
+    | Open   | ---       |
+
+2. Ippeikou (平和)
+
+    `Closed only`
+
+    > This hand includes two identical sequences.
+
+    | Hand   | Cost(Han) |
+    | ------ | --------- |
+    | Closed | 1         |
+    | Open   | ---       |
+
+3. Sanshoku (三色)
+
+    `Any`
+
+    > Three sequences have the same number across the three different suits.
+
+    | Hand   | Cost(Han) |
+    | ------ | --------- |
+    | Closed | 2         |
+    | Open   | 1         |
+
+4. Ittsuu (一通)
+
+    `Any`
+
+    > A straight from number 1 through 9 of one suit, namely, three sequences of 1-2-3, 4-5-6 and 7-8-9.
+
+    | Hand   | Cost(Han) |
+    | ------ | --------- |
+    | Closed | 2         |
+    | Open   | 1         |
+
+5. Ryanpeikou (二盃口)
+
+    `Closed only`
+
+    > Two Ippeikou.
+
+    | Hand   | Cost(Han) |
+    | ------ | --------- |
+    | Closed | 3         |
+    | Open   | ---       |
+
+### Triplets
+
+1. Toitoi (対々)
+
+    `Open only`
+
+    > Hand with only triplets or quads.
+
+    | Hand   | Cost(Han) |
+    | ------ | --------- |
+    | Closed | `Yakuman` |
+    | Open   | 2         |
+
+2. Sanankou (三暗刻)
+
+    `Any`
+
+    >Three closed triplets.
+
+    | Hand   | Cost(Han) |
+    | ------ | --------- |
+    | Closed | 2         |
+    | Open   | 2         |
+
+3. Sanshoku-doukou (三色同刻)
+
+    `Any`
+
+    > Three triplets consisting of the same numbers in all three suits.
+
+    | Hand   | Cost(Han) |
+    | ------ | --------- |
+    | Closed | 2         |
+    | Open   | 2         |
 
 ----------------------------------------------------------------
 ## Fu:
