@@ -10,6 +10,13 @@
     - [Luck:](#luck)
     - [Sequence:](#sequence)
     - [Triplets](#triplets)
+    - [Terms & Honors](#terms--honors)
+    - [Suits:](#suits)
+    - [Local](#local)
+    - [**Yakumans**:](#yakumans)
+      - [Official](#official)
+      - [Start hand](#start-hand)
+      - [Local](#local-1)
   - [Fu:](#fu)
     - [**Base**](#base)
     - [**Bonus**](#bonus)
@@ -262,6 +269,332 @@
     | Closed | 2         |
     | Open   | 2         |
 
+4. Sankantsu (三槓子)
+
+    `Any`
+
+    > Hand with three kans.
+
+    | Hand   | Cost(Han) |
+    | ------ | --------- |
+    | Closed | 2         |
+    | Open   | 2         |
+
+### Terms & Honors
+
+1. Tan'yao (断么)
+
+    `Any?`
+
+    > Numbered tiles from 2 through 8 only.
+
+    | Hand   | Cost(Han) |
+    | ------ | --------- |
+    | Closed | 1         |
+    | Open   | 1         |
+
+2. Yakuhai (役牌)
+
+    `Any`
+
+    > Pon of honors.<br>
+    > * If winds, 1 han per round/seat wind.
+
+    | Hand   | Cost(Han) |
+    | ------ | --------- |
+    | Closed | 1         |
+    | Open   | 1         |
+
+3. Chanta (混全帯么九)
+
+    `Any`
+
+    > The sequences in the hand must be 1-2-3 and 7-8-9, and triplets and the pair must be 1's, 9's and honor tiles.
+
+    | Hand   | Cost(Han) |
+    | ------ | --------- |
+    | Closed | 2         |
+    | Open   | 1         |
+
+4. Junchan (純全帯么九)
+
+    `Any`
+
+    > As such, no honor tiles are included. The sequences must be 1-2-3 and 7-8-9, and triplets and the pair must be 1's and 9's.
+
+    | Hand   | Cost(Han) |
+    | ------ | --------- |
+    | Closed | 2         |
+    | Open   | 1         |
+
+5. Honroutou (混老頭)
+
+    `Any`
+
+    > The hand consists of all terminals and honors.
+    > * The yaku separately counts the two han of an all triplet hand or seven pairs and therefore always has four han.
+
+    | Hand   | Cost(Han) |
+    | ------ | --------- |
+    | Closed | 2(4)      |
+    | Open   | 2(4)      |
+
+6. Shousangen (小三元)
+
+    `Any`
+
+    > Two triplets or quads of dragons, plus a pair of the third.
+    > * The hand consequently has four han since the two han for honor tiles yaku from the two sets of dragons are added separately.
+
+    | Hand   | Cost(Han) |
+    | ------ | --------- |
+    | Closed | 2(4)      |
+    | Open   | 2(4)      |
+
+### Suits:
+
+1. Hon'itsu (混一)
+
+    `Any`
+
+    > The hand contains tiles from one suit and honors.
+
+    | Hand   | Cost(Han) |
+    | ------ | --------- |
+    | Closed | 3         |
+    | Open   | 2         |
+
+2. Chin'itsu (清一)
+
+    `Any`
+
+    > The hand contains tiles from one suit.
+
+    | Hand   | Cost(Han) |
+    | ------ | --------- |
+    | Closed | 6         |
+    | Open   | 5         |
+
+### Local
+
+1. Sanrenkou (三連刻)
+
+    `Any`
+
+    > Three identical sequences of one suit.
+
+    | Hand   | Cost(Han) |
+    | ------ | --------- |
+    | Closed | 2         |
+    | Open   | 2         |
+
+### **Yakumans**:
+
+#### Official
+
+1. Kokushi musou/Kokushi musou juu san men machi (国士無双 / 国士無双十三面待ち)
+
+    `Closed only`
+
+    > All types of terms & honors for one tile and one tile as a pair to one of this.
+    > * If you wait for a pair as a last tile, it's `Double yakuman`, else just yakuman.
+
+    | Wait      | Cost(Han)        |
+    | --------- | ---------------- |
+    | Pair      | `Double Yakuman` |
+    | Last type | `Yakuman`        |
+
+2. Suuankou/Suuankou tanki (四暗刻/四暗刻単騎)
+
+    `Closed only`
+
+    > A hand that has four closed triplets/quads.
+    > * If you already have tree closed triplets and two pairs, it's `Yakuman`
+    > * If you already have four closed triplets and wait for pair, it's `Double Yakuman`
+
+    | Wait | Cost(Han)        |
+    | ---- | ---------------- |
+    | Pair | `Double Yakuman` |
+    | Pon  | `Yakuman`        |
+
+3. Daisangen (大三元)
+    
+    `Any`
+
+   > A triplet or quad of each type of dragon tile.
+
+    | Hand        | Cost(Han) |
+    | ----------- | --------- |
+    | Open/Closed | `Yakuman` |
+
+4. Shousuushii (小四喜)
+
+    `Any`
+
+    >A hand consisting of three triplets/quads of winds and a pair of the fourth wind.
+
+    | Hand        | Cost(Han) |
+    | ----------- | --------- |
+    | Open/Closed | `Yakuman` |
+
+5. Daisuushii (大四喜)
+
+    `Any`
+
+    > A hand consisting of four triplets/quads of winds.
+
+    | Hand        | Cost(Han)                   |
+    | ----------- | --------------------------- |
+    | Open/Closed | `Double Yakuman`(`Yakuman`) |
+
+6. 	Tsuuiisou (字一色)
+
+    `Any`
+
+    > Only honor tiles hand.
+
+    | Hand        | Cost(Han) |
+    | ----------- | --------- |
+    | Open/Closed | `Yakuman` |
+
+7. 	Chinroutou (清老頭)
+
+    `Any`
+
+    > Only terminals hand.
+
+    | Hand        | Cost(Han) |
+    | ----------- | --------- |
+    | Open/Closed | `Yakuman` |
+
+8. Ryuuiisou (緑一色)
+
+    `Any`
+
+    > A hand containing only green tiles. Green tiles are: 2, 3, 4, 6, 8 of bamboo, and green dragons.
+
+    | Hand        | Cost(Han) |
+    | ----------- | --------- |
+    | Open/Closed | `Yakuman` |
+
+9. Chuuren poutou/junsei chuuren poutou (九蓮宝燈/純正九蓮宝燈)
+
+    `Closed only`
+
+    >A hand composed of 1-1-1-2-3-4-5-6-7-8-9-9-9 of one suit, plus any other tile of the same suit.
+    > * If you are 9 wait, it's `Double Yakuman`
+
+    | Wait   | Cost(Han)        |
+    | ------ | ---------------- |
+    | 9 wait | `Double Yakuman` |
+    | Other  | `Yakuman`        |
+
+10. San kantsu (四槓子)
+
+    `Any`
+
+    >Four quads in one hand, which can be open or closed.
+
+    | Hand        | Cost(Han) |
+    | ----------- | --------- |
+    | Open/Closed | `Yakuman` |
+
+#### Start hand
+
+1. Tenhou (天和)
+
+    `Closed only`<br>`Dealer only`
+
+    > Win by start hand.
+
+    | Hand        | Cost(Han) |
+    | ----------- | --------- |
+    | Open/Closed | `Yakuman` |
+
+2. Chiihou (地和)
+
+    `Closed only`<br>`Non-dealer only`
+
+    > Win by start hand when you are not dealer.
+
+    | Hand        | Cost(Han) |
+    | ----------- | --------- |
+    | Open/Closed | `Yakuman` |
+
+3. Renhou (人和)
+
+    `Closed only`<br>`Non-dealer only`
+
+    > Ron for first 'round'
+
+    | Hand        | Cost(Han) |
+    | ----------- | --------- |
+    | Open/Closed | `Yakuman` |
+
+#### Local
+
+1. Suurenkou (四連刻)
+
+    `Any`
+
+    > Tree identical sequences of FOUR tiles of one suit.
+    > * '(333-444-555-666-RR)'
+
+    | Hand        | Cost(Han) |
+    | ----------- | --------- |
+    | Open/Closed | `Yakuman` |
+
+2. Dai suurin(大数隣)[Man]/Dai sharin(大車輪)[Pin]/Dai chikurin(大竹林)[Sou]
+
+    `Closed only`
+
+    > A hand composed of 22-33-44-55-66-77-88 of one suit.
+
+    | Hand   | Cost(Han) |
+    | ------ | --------- |
+    | Closed | `Yakuman` |
+
+3. Daichisei (大七星)
+
+    `Closed only`
+
+    > Chiitoitsu with onlu honors.
+
+    | Hand   | Cost(Han)        |
+    | ------ | ---------------- |
+    | Closed | `Double Yakuman` |
+
+4. Shiisanpuutā/Shiisanbudou (十三不塔)
+
+    `Closed only`
+
+    >The hand contains thirteen tiles such that there are no pairs and no number tiles closer than 3 apart from one another, plus an additional one of any of the tiles in the hand.
+    > * Can only be claimed by a player on their first draw.
+
+    | Hand   | Cost(Han) |
+    | ------ | --------- |
+    | Closed | `Yakuman` |
+
+5. Shiisuupuutā (十四不塔)
+
+    `Closed only`
+
+    > The hand contains fourteen tiles so that there are no pairs and no number tiles closer than 3 apart from one another. Can only be claimed by a player on their first draw.
+
+    | Hand   | Cost(Han) |
+    | ------ | --------- |
+    | Closed | `Yakuman` |
+
+6. Bārenchan (八連荘)
+
+    `Dealer only`
+
+    > A player wins eight times consecutively.
+
+    | --- | Cost(Han) |
+    | --- | --------- |
+    | --- | `Yakuman` |
+
 ----------------------------------------------------------------
 ## Fu:
 > * Fu is always rounded up to the next 10!
@@ -314,3 +647,12 @@
 > * at least two open sets of terminal/honor tiles
 > * one open set of terminal/honor tiles and one concealed set of simples
 > * at least two concealed sets of simples
+
+<br><br><br><br>
+
+----------------------------------------------------------------
+
+Used resouces:<br>
+https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%8F%D0%BA%D1%83_%D0%B2_%D1%80%D0%B8%D0%B8%D1%87%D0%B8-%D0%BC%D0%B0%D0%B4%D0%B6%D0%BE%D0%BD%D0%B3%D0%B5<br>
+https://furiten.ru/<br>
+https://riichi.wiki/Fu<br>
