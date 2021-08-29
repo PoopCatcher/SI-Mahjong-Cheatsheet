@@ -6,14 +6,14 @@
     - [Dealer](#dealer)
     - [Non-Dealer](#non-dealer)
   - [Yaku:](#yaku)
-    - [Situations:](#situations)
-    - [Luck:](#luck)
-    - [Sequence:](#sequence)
+    - [Situations](#situations)
+    - [Luck](#luck)
+    - [Sequence](#sequence)
     - [Triplets](#triplets)
     - [Terms & Honors](#terms--honors)
-    - [Suits:](#suits)
+    - [Suits](#suits)
     - [Local](#local)
-    - [**Yakumans**:](#yakumans)
+    - [**Yakumans**](#yakumans)
       - [Official](#official)
       - [Start hand](#start-hand)
       - [Local](#local-1)
@@ -60,7 +60,7 @@
 ----------------------------------------------------------------
 
 ## Yaku:
-### Situations:
+### Situations
 1. Riichi (立直)
     
     `Closed only`
@@ -98,7 +98,7 @@
     | ------ | --------- |
     | Closed | 2         |
     | Open   | ---       |
-### Luck:
+### Luck
 1. Menzen Tsumo (門前清模和)
 
     `Closed only`
@@ -177,7 +177,7 @@
     | Closed | 1         |
     | Open   | ---       |
 
-### Sequence:
+### Sequence
 
 1. Pinfu (平和)
 
@@ -190,7 +190,7 @@
     | Closed | 1         |
     | Open   | ---       |
 
-2. Ippeikou (平和)
+2. Ippeikou (一盃口)
 
     `Closed only`
 
@@ -351,7 +351,7 @@
     | Closed | 2(4)      |
     | Open   | 2(4)      |
 
-### Suits:
+### Suits
 
 1. Hon'itsu (混一)
 
@@ -388,7 +388,7 @@
     | Closed | 2         |
     | Open   | 2         |
 
-### **Yakumans**:
+### **Yakumans**
 
 #### Official
 
