@@ -5,6 +5,7 @@
   - [Scoring:](#scoring)
     - [Dealer](#dealer)
     - [Non-Dealer](#non-dealer)
+  - [**Yaku list**](#yaku-list)
   - [Yaku:](#yaku)
     - [Situations](#situations)
     - [Luck](#luck)
@@ -13,7 +14,7 @@
     - [Terms & Honors](#terms--honors)
     - [Suits](#suits)
     - [Local](#local)
-    - [**Yakumans**](#yakumans)
+    - [**Yakuman**](#yakuman)
       - [Official](#official)
       - [Start hand](#start-hand)
       - [Local](#local-1)
@@ -56,6 +57,73 @@
 | Baiman(8,9,10)   | 4000/8000<br>16000  |
 | Sanbaiman(11,12) | 6000/12000<br>24000 |
 | Yakuman(13+)     | 8000/16000<br>32000 |
+
+----------------------------------------------------------------
+## **Yaku list**
+
+| Type                             | Yaku            | O         | C                  |
+| -------------------------------- | --------------- | --------- | ------------------ |
+| [Situations](#situations)        | Riichi          | -         | 1                  |
+|                                  | Chiitoitsu      | -         | 1                  |
+|                                  | Nagashi mangan  | `Mangan`  | `Mangan`           |
+|                                  |                 |           |                    |
+| [Luck](#luck)                    | Menzen tsumo    | -         | 1                  |
+|                                  | Ippatsu         | -         | 1                  |
+|                                  | Haitei          | 1         | 1                  |
+|                                  | Houtei          | 1         | 1                  |
+|                                  | Rinshan Kaihou  | 1         | 1                  |
+|                                  | Chankan         | 1         | 1                  |
+|                                  | Double riichi   | -         | 2                  |
+|                                  |                 |           |                    |
+| [Sequences](#sequences)          | Pinfu           | -         | 1                  |
+|                                  | Iipeikou        | -         | 1                  |
+|                                  | Sanshoku        | 1         | 2                  |
+|                                  | Ittsuu          | 1         | 2                  |
+|                                  | Ryanpeikou      | -         | 3                  |
+|                                  |                 |           |                    |
+| [Triplets](#triplets)            | Toitoi          | 2         | -                  |
+|                                  | Sanankou        | 2         | 2                  |
+|                                  | Sanshoku doukou | 2         | 2                  |
+|                                  | Sankantsu       | 2         | 2                  |
+|                                  |                 |           |                    |
+| [Terms & honors](#terms--honors) | Tan'yao         | 1?        | 1                  |
+|                                  | Yakuhai         | 1         | 1                  |
+|                                  | Chanta          | 1         | 2                  |
+|                                  | Junchan         | 2         | 3                  |
+|                                  | Honroutou       | 2         | 2                  |
+|                                  | Shousangen      | 2         | 2                  |
+|                                  |                 |           |                    |
+| [Suits](#suits)                  | Hon'tsu         | 2         | 3                  |
+|                                  | Chin'itsu       | 5         | 6                  |
+|                                  |                 |           |                    |
+| [**`Yakuman`**](#yakumans)       | Kokushi musou   | -         | `Yakuman`/`Double` |
+|                                  | Suuankou        | -         | `Yakuman`/`Double` |
+|                                  | Daisangen       | `Yakuman` | `Yakuman`          |
+|                                  | Shousuushii     | `Yakuman` | `Yakuman`          |
+|                                  | Daisuushii      | `Double`  | `Double`           |
+|                                  | Tsuuiisou       | `Yakuman` | `Yakuman`          |
+|                                  | Chinroutou      | `Yakuman` | `Yakuman`          |
+|                                  | Ryuuiisou       | `Yakuman` | `Yakuman`          |
+|                                  | Chuuren poutou  | -         | `Yakuman`/`Double` |
+|                                  | Suu kantsu      | `Yakuman` | `Yakuman`          |
+|                                  | Tenhou          | -         | `Yakuman`          |
+|                                  | Chiihou         | -         | `Yakuman`          |
+|                                  | Renhou          | -         | `Yakuman`          |
+
+| Type            | Yaku         | O         | C         |
+| --------------- | ------------ | --------- | --------- |
+| [Local](#local) | Samrenkou    | 2         | 2         |
+|                 | Suurenkou    | `Yakuman` | `Yakuman` |
+|                 | Dai suurin   | -         | `Yakuman` |
+|                 | Dai sharin   | -         | `Yakuman` |
+|                 | Dai chikurin | -         | `Yakuman` |
+|                 | Daichisei    | -         | `Double`  |
+|                 | Shiisanpuutā | -         | `Yakuman` |
+|                 | Shiisuupuutā | -         | `Yakuman` |
+|                 | Bārenchan    | `Yakuman` | `Yakuman` |
+
+
+
 
 ----------------------------------------------------------------
 
@@ -190,7 +258,7 @@
     | Closed | 1         |
     | Open   | ---       |
 
-2. Ippeikou (一盃口)
+2. Iipeikou (一盃口)
 
     `Closed only`
 
@@ -388,7 +456,7 @@
     | Closed | 2         |
     | Open   | 2         |
 
-### **Yakumans**
+### **Yakuman**
 
 #### Official
 
