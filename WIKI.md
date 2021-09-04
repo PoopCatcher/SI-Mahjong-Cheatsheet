@@ -1,13 +1,14 @@
 # Wiki Progress
 
 ## Wiki EN progress:
-- [ ] Home
+- [x] Home
+- [ ] Wall
 - [ ] Yaku
-- [ ] Terms
+- [ ] Dora
 - [ ] Scoring
 
 ## Wiki RU progress:
-- [ ] Home
+- [x] Home
 - [ ] ...
 
 ## Wiki JP progress:
