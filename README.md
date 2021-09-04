@@ -25,6 +25,7 @@
       - [Waits](#waits)
       - [Honor pairs](#honor-pairs)
     - [Fu shortcuts](#fu-shortcuts)
+  - [> * at least two concealed sets of simples](#--at-least-two-concealed-sets-of-simples)
 
 ----------------------------------------------------------------
 
@@ -75,7 +76,7 @@
 |                                  | Chankan         | 1         | 1                  |
 |                                  | Double riichi   | -         | 2                  |
 |                                  |                 |           |                    |
-| [Sequences](#sequences)          | Pinfu           | -         | 1                  |
+| [Sequences](#sequence)           | Pinfu           | -         | 1                  |
 |                                  | Iipeikou        | -         | 1                  |
 |                                  | Sanshoku        | 1         | 2                  |
 |                                  | Ittsuu          | 1         | 2                  |
@@ -96,7 +97,7 @@
 | [Suits](#suits)                  | Hon'tsu         | 2         | 3                  |
 |                                  | Chin'itsu       | 5         | 6                  |
 |                                  |                 |           |                    |
-| [**`Yakuman`**](#yakumans)       | Kokushi musou   | -         | `Yakuman`/`Double` |
+| [**`Yakuman`**](#yakuman)        | Kokushi musou   | -         | `Yakuman`/`Double` |
 |                                  | Suuankou        | -         | `Yakuman`/`Double` |
 |                                  | Daisangen       | `Yakuman` | `Yakuman`          |
 |                                  | Shousuushii     | `Yakuman` | `Yakuman`          |
@@ -715,8 +716,20 @@
 > * at least two open sets of terminal/honor tiles
 > * one open set of terminal/honor tiles and one concealed set of simples
 > * at least two concealed sets of simples
+---
 
-<br><br><br><br>
+<br><br>
+
+---
+Wiki EN progress:
+- [ ] Home
+- [ ] ...
+
+Wiki RU progress:
+- [ ] Home
+- [ ] ...
+
+<br><br>
 
 ----------------------------------------------------------------
 
