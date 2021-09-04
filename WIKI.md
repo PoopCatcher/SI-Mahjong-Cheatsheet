@@ -9,3 +9,7 @@
 ## Wiki RU progress:
 - [ ] Home
 - [ ] ...
+
+## Wiki JP progress:
+- [ ] Home
+- [ ] ...
