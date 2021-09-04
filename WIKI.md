@@ -2,7 +2,9 @@
 
 ## Wiki EN progress:
 - [ ] Home
-- [ ] ...
+- [ ] Yaku
+- [ ] Terms
+- [ ] Scoring
 
 ## Wiki RU progress:
 - [ ] Home

@@ -25,7 +25,6 @@
       - [Waits](#waits)
       - [Honor pairs](#honor-pairs)
     - [Fu shortcuts](#fu-shortcuts)
-  - [> * at least two concealed sets of simples](#--at-least-two-concealed-sets-of-simples)
 
 ----------------------------------------------------------------
 
@@ -716,19 +715,8 @@
 > * at least two open sets of terminal/honor tiles
 > * one open set of terminal/honor tiles and one concealed set of simples
 > * at least two concealed sets of simples
----
 
 <br><br>
-
----
-Wiki EN progress:
-- [ ] Home
-- [ ] ...
-
-Wiki RU progress:
-- [ ] Home
-- [ ] ...
-
 <br><br>
 
 ----------------------------------------------------------------
