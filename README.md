@@ -726,4 +726,4 @@ https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%8F%D0%BA%
 https://furiten.ru/<br>
 https://riichi.wiki/Fu<br>
 
-Original mahjong spritesheet by [**GambleMountain**](twitter.com/gamblemountain) on [**itch.io page**](https://gamblemountain.itch.io/riichi-asset) and have [**MIT License**](https://choosealicense.com/licenses/mit/). We just have edited it!
+Original mahjong spritesheet by [**GambleMountain**](https://twitter.com/gamblemountain) on [**itch.io page**](https://gamblemountain.itch.io/riichi-asset) and have [**MIT License**](https://choosealicense.com/licenses/mit/). We just have edited it!
