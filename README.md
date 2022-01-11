@@ -112,7 +112,8 @@
 
 | Type            | Yaku         | O         | C         |
 | --------------- | ------------ | --------- | --------- |
-| [Local](#local) | Samrenkou    | 2         | 2         |
+| [Local](#local) | Sanrenkou    | 2         | 2         |
+|                 | Open riichi  | 2         | 2         |
 |                 | Suurenkou    | `Yakuman` | `Yakuman` |
 |                 | Dai suurin   | -         | `Yakuman` |
 |                 | Dai sharin   | -         | `Yakuman` |
