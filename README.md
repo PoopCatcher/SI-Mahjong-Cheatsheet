@@ -135,7 +135,7 @@
 
     >You promise to win by putting 1000 into your deposit. If you win you take away everything from the table top, and 1000 as yaku.
     
-    | Hnad   | Cost(Han) |
+    | Hand   | Cost(Han) |
     | ------ | --------- |
     | Closed | 1         |
     | Open   | ---       |
@@ -455,6 +455,17 @@
     | ------ | --------- |
     | Closed | 2         |
     | Open   | 2         |
+    
+2. Open Riichi (オープン立直)
+    
+    `Any`
+
+    >You call riichi and open your hand.
+    
+    | Hand   | Cost(Han) |
+    | ------ | --------- |
+    | Riichi | 1         |
+    | Open Riichi   | 2       |
 
 ### **Yakuman**
 
