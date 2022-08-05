@@ -64,7 +64,7 @@
 | Type                             | Yaku            | O         | C                  |
 | -------------------------------- | --------------- | --------- | ------------------ |
 | [Situations](#situations)        | Riichi          | -         | 1                  |
-|                                  | Chiitoitsu      | -         | 1                  |
+|                                  | Chiitoitsu      | -         | 2                  |
 |                                  | Nagashi mangan  | `Mangan`  | `Mangan`           |
 |                                  |                 |           |                    |
 | [Luck](#luck)                    | Menzen tsumo    | -         | 1                  |
